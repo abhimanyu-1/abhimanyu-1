@@ -1,8 +1,7 @@
 <body bgcolor="black">
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src=
-![git](https://user-images.githubusercontent.com/116670401/208697237-b4ef06e1-0080-42e9-b6e3-2b1f1704fae9.gif)
+<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47q6d3corb47pij1cm021cc0jnvgaix5j2v47ybfdm&rid=giphy.gif&ct=g")
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhimanyu-1&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu-1" /> </p>
 
