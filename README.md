@@ -1,6 +1,6 @@
 <body bgcolor="black">
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate frontend developer from India</h3>
 <br><br>
 <img align="centre" alt="Coding" width="400" src="https://media2.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif?cid=ecf05e47wvc54298ldxvmqsbfc6tmv4ljvnqhksbp2ii2q94&rid=giphy.gif&ct=g")
 
