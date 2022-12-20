@@ -1,7 +1,7 @@
 <body bgcolor="black">
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/RemarkableSnappyFallowdeer-mobile.mp4">
+<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/RemarkableSnappyFallowdeer-mobile.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhimanyu-1&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu-1" /> </p>
 
