@@ -4,7 +4,7 @@
 <br>
 &nbsp &nbsp<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/8YNxrDHjOFE7qZKXS5/giphy.gif?cid=ecf05e473zuguagd7bs4856o67c64ydouelj8dlhy3h59aes&rid=giphy.gif&ct=g")
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhimanyu-1&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu-1" /> </p>
+<p align="center">  </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyu-1" alt="abhimanyu-1" /></a> </p>
 
