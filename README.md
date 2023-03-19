@@ -24,7 +24,7 @@
 <a href="https://www.facebook.com/abhimanyu.kesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhimanyu.kesu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__.kesu.__/?fbclid=IwAR10ghMMr4AX-BFw-t9oN0edROrNM8SZx93LYVp2WHwFseYHTx0maWgdnug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.kesu.__/" height="30" width="40" /></a>
  
-<a href="https://www.linkedin.com/in/abhimanyu-s-51a2a1269/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo-thumbnail.png" alt="https://www.linkedin.com/in/abhimanyu-s-51a2a1269/" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/abhimanyu-s-51a2a1269/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo-thumbnail.png" alt="https://www.linkedin.com/in/abhimanyu-s-51a2a1269/" height="40" width="40" /></a> 
 
 </p>
 
