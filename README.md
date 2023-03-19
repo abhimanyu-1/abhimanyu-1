@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimanyu-1&" alt="abhimanyu-1" /></p>
   
-  <h3 align="left">📊 Github Stats</h3>
+  <center><h3 align="left">📊 Github Stats</h3></center>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandyvr46&label=Profile%20views&color=0e75b6&style=flat" alt="sandyvr46" /> </p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
