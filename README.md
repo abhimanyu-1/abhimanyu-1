@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <br>
   <center><h3 align="left">📊 Github Stats</h3></center>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandyvr46&label=Profile%20views&color=0e75b6&style=flat" alt="sandyvr46" /> </p>
+
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
