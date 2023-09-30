@@ -5,12 +5,6 @@
 <h3 align="center">📊 Github Stats</h3>
 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abhimanyu-1&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyu-1" />  </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyu-1" alt="abhimanyu-1" /></a> </p>
-
 - 🌱 I’m currently learning **python , css ,java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhimanyu-1](https://github.com/abhimanyu-1)
